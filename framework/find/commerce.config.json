@@ -1,0 +1,11 @@
+{
+    "provider": "find",
+    "features": {
+      "wishlist": true,
+      "cart": true,
+      "search": true,
+      "customerAuth": true,
+      "customCheckout":true
+    }
+}
+  
