@@ -58,8 +58,8 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline="Find Ecommerce."
-        description=" Ecommerce Solution for all of your business "
+        headline="Letsbuy Ecommerce."
+        description=" Solucion de Ecommerce "
       />
       <Grid layout="B" variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (

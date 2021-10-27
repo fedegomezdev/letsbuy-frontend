@@ -24,13 +24,13 @@ export default function getSiteInfoOperation({}: OperationContext<any>) {
       categories: [
         {
           id: 'new-arrivals',
-          name: 'New Arrivals',
+          name: 'Nueva Temporada',
           slug: 'new-arrivals',
           path: '/new-arrivals',
         },
         {
           id: 'featured',
-          name: 'Featured',
+          name: 'Mas comprado',
           slug: 'featured',
           path: '/featured',
         },
